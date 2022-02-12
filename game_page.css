@@ -1,0 +1,33 @@
+html{
+    color: aqua;
+}
+body{
+    background-image:url(https://image.shutterstock.com/image-vector/dark-black-vector-background-digit-260nw-1583428078.jpg);
+    background-size: cover;
+    color: whitesmoke;
+}
+#players{
+    float: left;
+}
+#numbers{
+    position: absolute;
+    top: 300px;
+    left: 1000px;
+}
+#score{
+    position: absolute;
+    top:15px;
+    left: 1050px;
+    background-color: lightcoral;
+    
+}
+#output{
+    position: absolute;
+    top: 300px;
+    left: 30px;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    border-bottom: 10px solid #AA4465;
+}

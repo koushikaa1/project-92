@@ -1,0 +1,25 @@
+body{
+    background-image:url(https://image.shutterstock.com/image-vector/dark-black-vector-background-digit-260nw-1583428078.jpg);
+    background-size: cover;
+    color: whitesmoke;
+}
+img{
+    width: 500px;
+    height: 200px;
+}
+div{
+    position: absolute;
+    top: 15px;
+    left: 600px;
+}
+.login_div2{
+    position: absolute;
+    top: 250px;
+    left: 600px;
+}
+
+button{
+    position: absolute;
+    top: 460px;
+    left: 670px;
+}
